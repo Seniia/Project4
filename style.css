@@ -1,0 +1,106 @@
+body{
+    background-color: #1C1C1C;
+    color: white;
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    margin-right: 33px;
+}
+
+p{
+    font-size: 24px;
+}
+
+.oil{
+    margin: 0;
+    margin-left: 2%;
+    margin-top: 33px;
+}
+
+.o{
+    margin: 0;
+    position: absolute;
+    top: 33px;
+    right: 2%;
+}
+
+.o:hover{
+    color:grey;
+}
+
+.m{
+    margin: 0;
+    position: absolute;
+    top: 33px;
+    right: 32%;
+    left: 32%;
+    width: 530px;
+    height: 15px;
+}
+
+.motor:hover{
+    color:grey;
+}
+
+img{
+    width: 503px;
+    height: 478px;
+    position: absolute;
+    top: 25%;
+    bottom: 25%;
+    left: 35%;
+    right: 35%;
+}
+
+h1{
+    width: 1490px;
+    height: 179px;
+    font-size: 220px;
+    text-align: center;
+    margin: 0;
+    margin-top: 145px;
+}
+
+.mm{
+    width: 675px;
+    height: 75px;
+    margin: 0;
+    margin-top: 195px;
+    margin-left: 2%;
+}
+
+.agm{
+    margin: 0;
+    float: right;
+    margin-left: 4%;
+    width: 300px;
+    height: 80px;
+    display: flex;
+}
+.auto{
+    border: 1px solid #FFFFFF;
+    border-radius: 100px;
+    width: 40px;
+    height: 25px;
+    padding: 20px 30px;
+}
+
+.gidro{
+    border: 1px solid #FFFFFF;
+    border-radius: 100px;
+    width: 40px;
+    height: 25px;
+    padding: 20px 30px;
+}
+
+.moto{
+    border: 1px solid #FFFFFF;
+    border-radius: 100px;
+    width: 40px;
+    height: 25px;
+    padding: 20px 30px;
+}
